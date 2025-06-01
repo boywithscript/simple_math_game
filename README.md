@@ -17,4 +17,4 @@ This is a simple math game written in Python using basic concepts like:
 
 ## ▶️ How to run
 ```bash
-python math_game.py
+python simple_math.py
